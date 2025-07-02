@@ -1,0 +1,5 @@
+# Ignonar el virtual envairoument
+venv/
+# Ignonar el virtual envairoument
+_pycache_/
+*.pyc
